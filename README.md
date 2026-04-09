@@ -16,3 +16,5 @@ By working on this project, you will learn about:
 The project provides flexibility in how CSV files can be parsed:
 1. **Custom Parser:** Write a simple, robust parser from scratch that properly handles quoted fields.
 2. **Third-party Library (Optional):** Use a lightweight C++ library integrated via package managers like vcpkg or Conan.
+ 
+RESEND MERGE
